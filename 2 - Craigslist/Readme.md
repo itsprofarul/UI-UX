@@ -37,3 +37,7 @@ This project provides a **Craigslist-style web page** for a university, designed
    ```bash
    git clone https://github.com/yourusername/craigslist-university-page.git
 
+#### Open index.html in a web browser.
+- Modify the HTML and CSS files as needed.
+#### 📜 License
+This project is open-source and available under the MIT License.
